@@ -5,6 +5,7 @@ def mothers_day(name = "Mom")
 end
 # mothers_day
  mothers_day("Tracy")
+ mothers_day
 
 
 
